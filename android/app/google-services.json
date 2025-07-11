@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812975121869",
+    "project_id": "sugnup-21ca2",
+    "storage_bucket": "sugnup-21ca2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812975121869:android:bf37ecd85a5f7cb0bd5084",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLUZYxhb61DUEIzoYZBdTjnICSprO_oDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
